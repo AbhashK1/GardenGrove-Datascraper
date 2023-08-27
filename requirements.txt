@@ -3,3 +3,4 @@ flask==2.1.1
 numpy==1.21.2
 gunicorn==21.2.0
 protobuf==3.20.0
+requests==2.31.0
